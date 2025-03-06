@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WildLifeTrackerForm/1.0.0": {
+        "runtime": {
+          "WildLifeTrackerForm.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WildLifeTrackerForm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

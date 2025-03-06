@@ -1,0 +1,32 @@
+C:\Users\MBRANDTS\source\repos\WIldLifeTrackerForm\bin\Debug\net8.0-windows\WIldLifeTrackerForm.exe
+C:\Users\MBRANDTS\source\repos\WIldLifeTrackerForm\bin\Debug\net8.0-windows\WIldLifeTrackerForm.deps.json
+C:\Users\MBRANDTS\source\repos\WIldLifeTrackerForm\bin\Debug\net8.0-windows\WIldLifeTrackerForm.runtimeconfig.json
+C:\Users\MBRANDTS\source\repos\WIldLifeTrackerForm\bin\Debug\net8.0-windows\WIldLifeTrackerForm.dll
+C:\Users\MBRANDTS\source\repos\WIldLifeTrackerForm\bin\Debug\net8.0-windows\WIldLifeTrackerForm.pdb
+C:\Users\MBRANDTS\source\repos\WIldLifeTrackerForm\obj\Debug\net8.0-windows\WIldLifeTrackerForm.csproj.GenerateResource.cache
+C:\Users\MBRANDTS\source\repos\WIldLifeTrackerForm\obj\Debug\net8.0-windows\WIldLifeTrackerForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MBRANDTS\source\repos\WIldLifeTrackerForm\obj\Debug\net8.0-windows\WIldLifeTrackerForm.AssemblyInfoInputs.cache
+C:\Users\MBRANDTS\source\repos\WIldLifeTrackerForm\obj\Debug\net8.0-windows\WIldLifeTrackerForm.AssemblyInfo.cs
+C:\Users\MBRANDTS\source\repos\WIldLifeTrackerForm\obj\Debug\net8.0-windows\WIldLifeTrackerForm.csproj.CoreCompileInputs.cache
+C:\Users\MBRANDTS\source\repos\WIldLifeTrackerForm\obj\Debug\net8.0-windows\WIldLifeTrackerForm.dll
+C:\Users\MBRANDTS\source\repos\WIldLifeTrackerForm\obj\Debug\net8.0-windows\refint\WIldLifeTrackerForm.dll
+C:\Users\MBRANDTS\source\repos\WIldLifeTrackerForm\obj\Debug\net8.0-windows\WIldLifeTrackerForm.pdb
+C:\Users\MBRANDTS\source\repos\WIldLifeTrackerForm\obj\Debug\net8.0-windows\WIldLifeTrackerForm.genruntimeconfig.cache
+C:\Users\MBRANDTS\source\repos\WIldLifeTrackerForm\obj\Debug\net8.0-windows\ref\WIldLifeTrackerForm.dll
+C:\Users\MBRANDTS\source\repos\WIldLifeTrackerForm\obj\Debug\net8.0-windows\WildlifeTrackerWinForms.Form1.resources
+C:\Users\MBRANDTS\OneDrive - Volvo Cars\Desktop\WIldLifeTrackerForm\bin\Debug\net8.0-windows\WildLifeTrackerForm.exe
+C:\Users\MBRANDTS\OneDrive - Volvo Cars\Desktop\WIldLifeTrackerForm\bin\Debug\net8.0-windows\WildLifeTrackerForm.deps.json
+C:\Users\MBRANDTS\OneDrive - Volvo Cars\Desktop\WIldLifeTrackerForm\bin\Debug\net8.0-windows\WildLifeTrackerForm.runtimeconfig.json
+C:\Users\MBRANDTS\OneDrive - Volvo Cars\Desktop\WIldLifeTrackerForm\bin\Debug\net8.0-windows\WildLifeTrackerForm.dll
+C:\Users\MBRANDTS\OneDrive - Volvo Cars\Desktop\WIldLifeTrackerForm\bin\Debug\net8.0-windows\WildLifeTrackerForm.pdb
+C:\Users\MBRANDTS\OneDrive - Volvo Cars\Desktop\WIldLifeTrackerForm\obj\Debug\net8.0-windows\WildlifeTrackerWinForms.Form1.resources
+C:\Users\MBRANDTS\OneDrive - Volvo Cars\Desktop\WIldLifeTrackerForm\obj\Debug\net8.0-windows\WildLifeTrackerForm.csproj.GenerateResource.cache
+C:\Users\MBRANDTS\OneDrive - Volvo Cars\Desktop\WIldLifeTrackerForm\obj\Debug\net8.0-windows\WildLifeTrackerForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MBRANDTS\OneDrive - Volvo Cars\Desktop\WIldLifeTrackerForm\obj\Debug\net8.0-windows\WildLifeTrackerForm.AssemblyInfoInputs.cache
+C:\Users\MBRANDTS\OneDrive - Volvo Cars\Desktop\WIldLifeTrackerForm\obj\Debug\net8.0-windows\WildLifeTrackerForm.AssemblyInfo.cs
+C:\Users\MBRANDTS\OneDrive - Volvo Cars\Desktop\WIldLifeTrackerForm\obj\Debug\net8.0-windows\WildLifeTrackerForm.csproj.CoreCompileInputs.cache
+C:\Users\MBRANDTS\OneDrive - Volvo Cars\Desktop\WIldLifeTrackerForm\obj\Debug\net8.0-windows\WildLifeTrackerForm.dll
+C:\Users\MBRANDTS\OneDrive - Volvo Cars\Desktop\WIldLifeTrackerForm\obj\Debug\net8.0-windows\refint\WildLifeTrackerForm.dll
+C:\Users\MBRANDTS\OneDrive - Volvo Cars\Desktop\WIldLifeTrackerForm\obj\Debug\net8.0-windows\WildLifeTrackerForm.pdb
+C:\Users\MBRANDTS\OneDrive - Volvo Cars\Desktop\WIldLifeTrackerForm\obj\Debug\net8.0-windows\WildLifeTrackerForm.genruntimeconfig.cache
+C:\Users\MBRANDTS\OneDrive - Volvo Cars\Desktop\WIldLifeTrackerForm\obj\Debug\net8.0-windows\ref\WildLifeTrackerForm.dll
