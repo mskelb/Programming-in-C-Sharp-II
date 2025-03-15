@@ -1,0 +1,16 @@
+C:\Users\MBRANDTS\source\repos\WIldLifeTrackerForm\bin\Debug\net8.0-windows\WIldLifeTrackerForm.exe
+C:\Users\MBRANDTS\source\repos\WIldLifeTrackerForm\bin\Debug\net8.0-windows\WIldLifeTrackerForm.deps.json
+C:\Users\MBRANDTS\source\repos\WIldLifeTrackerForm\bin\Debug\net8.0-windows\WIldLifeTrackerForm.runtimeconfig.json
+C:\Users\MBRANDTS\source\repos\WIldLifeTrackerForm\bin\Debug\net8.0-windows\WIldLifeTrackerForm.dll
+C:\Users\MBRANDTS\source\repos\WIldLifeTrackerForm\bin\Debug\net8.0-windows\WIldLifeTrackerForm.pdb
+C:\Users\MBRANDTS\source\repos\WIldLifeTrackerForm\obj\Debug\net8.0-windows\WIldLifeTrackerForm.csproj.GenerateResource.cache
+C:\Users\MBRANDTS\source\repos\WIldLifeTrackerForm\obj\Debug\net8.0-windows\WIldLifeTrackerForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MBRANDTS\source\repos\WIldLifeTrackerForm\obj\Debug\net8.0-windows\WIldLifeTrackerForm.AssemblyInfoInputs.cache
+C:\Users\MBRANDTS\source\repos\WIldLifeTrackerForm\obj\Debug\net8.0-windows\WIldLifeTrackerForm.AssemblyInfo.cs
+C:\Users\MBRANDTS\source\repos\WIldLifeTrackerForm\obj\Debug\net8.0-windows\WIldLifeTrackerForm.csproj.CoreCompileInputs.cache
+C:\Users\MBRANDTS\source\repos\WIldLifeTrackerForm\obj\Debug\net8.0-windows\WIldLifeTrackerForm.dll
+C:\Users\MBRANDTS\source\repos\WIldLifeTrackerForm\obj\Debug\net8.0-windows\refint\WIldLifeTrackerForm.dll
+C:\Users\MBRANDTS\source\repos\WIldLifeTrackerForm\obj\Debug\net8.0-windows\WIldLifeTrackerForm.pdb
+C:\Users\MBRANDTS\source\repos\WIldLifeTrackerForm\obj\Debug\net8.0-windows\WIldLifeTrackerForm.genruntimeconfig.cache
+C:\Users\MBRANDTS\source\repos\WIldLifeTrackerForm\obj\Debug\net8.0-windows\ref\WIldLifeTrackerForm.dll
+C:\Users\MBRANDTS\source\repos\WIldLifeTrackerForm\obj\Debug\net8.0-windows\WildlifeTrackerWinForms.Form1.resources
